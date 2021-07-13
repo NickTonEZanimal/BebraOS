@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://imgur.com/a/e8ep7Ps"><img src="https://imgur.com/a/e8ep7Ps" width="500px" alt="NixOS logo" /></a>
+  <a href="https://imgur.com/a/e8ep7Ps"><img src="https://imgur.com/a/e8ep7Ps" width="500px" alt="BebraOS logo" /></a>
 </p>
 
 # BebraOS
