@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://sun9-87.userapi.com/impg/Thzgsm0AjGOjRBY6priTubuQYllVktVUuT43Sw/BXnZUhbkpjs.jpg?size=1920x1080&quality=96&sign=3765403675994a6a504a79f4b6ef5f5c&type=album"><img src="https://sun9-87.userapi.com/impg/Thzgsm0AjGOjRBY6priTubuQYllVktVUuT43Sw/BXnZUhbkpjs.jpg?size=1920x1080&quality=96&sign=3765403675994a6a504a79f4b6ef5f5c&type=album" width="500px" alt="NixOS logo" /></a>
+</p>
+
 # BebraOS
 BebraOS it new generation os
 # Ebanutiy kernel
