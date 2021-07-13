@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://imgur.com/a/e8ep7Ps"><img src="https://imgur.com/a/e8ep7Ps" width="500px" alt="BebraOS logo" /></a>
+  <a href="https://github.com/NickTonEZanimal/BebraOS/blob/main/logo.png?raw=true"><img src="https://github.com/NickTonEZanimal/BebraOS/blob/main/logo.png?raw=true" width="500px" alt="BebraOS logo" /></a>
 </p>
 
 # BebraOS
